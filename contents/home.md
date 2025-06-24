@@ -2,7 +2,7 @@
 
 [![ICe0330](https://img.shields.io/badge/ICe0330-github-blue?logo=github)](https://github.com/ICe0330)
 
-目前在安庆师范大学数理学院攻读数学硕士学位。
+目前在安庆师范大学数理学院攻读数学硕士学位
 
 #### 邮箱
 icexu330@126.com
