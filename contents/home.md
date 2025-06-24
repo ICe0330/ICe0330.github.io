@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ICe0330](https://img.shields.io/badge/ICe0330-github-blue?logo=github)](https://github.com/ICe0330)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+目前在安庆师范大学数理学院攻读数学硕士学位。
 
-#### Email
-sli[at]cumt.edu.cn
+#### 邮箱
+icexu330@126.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### ORCID 个人主页
+https://orcid.org/0009-0009-6216-2201(https://orcid.org/0009-0009-6216-2201)
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+#### 教育经历
+硕士,数学,安庆师范大学,2023-2026(预计)
+学士,数学与应用数学,安庆师范大学,2018-2022
+
 
