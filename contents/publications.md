@@ -1,12 +1,7 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>B. Xu<strong>, J. Gao*, and C. Shen (2024). Proportional relations between the wave number and amplitude of spiral waves near Neimark-Sacker bifurcations. <strong>Europhysics Letters</strong>. [[Paper]](https://doi.org/10.1209/0295-5075/ad5eb8)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- J. Gao*, <strong>B. Xu<strong>, Y. Zheng, and C. Shen (2025). Population dynamics of biological synchronous reproduction and the effects of synchronous reproductive cycle on population dynamics. <strong>Chaos, Solitons and Fractals</strong>. [[Paper]](https://doi.org/10.1016/j.chaos.2025.116438)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>B. Xu<strong>, Y. Guo, J. Gao*, Y. Long, M. Feng, and C. Shen (2025). Universality of population distribution patterns near the Neimark-Sacker bifurcation in a predator-pest model of warm temperate deciduous forests. <strong>Communications in Nonlinear Science and Numerical Simulation</strong>. [[Paper]](https://doi.org/10.1016/j.cnsns.2025.108961)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- J. Gao*, <strong>B. Xu<strong>, and C. Shen (2025). Period-doubled spiral waves without line defects in oscillatory systems. <strong>Physical Review E</strong>. [[Paper]](https://doi.org/10.1103/26pt-kz9b)
