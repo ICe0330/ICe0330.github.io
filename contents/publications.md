@@ -5,3 +5,5 @@
 - <strong>B. Xu<strong>, Y. Guo, J. Gao*, Y. Long, M. Feng, and C. Shen (2025). Universality of population distribution patterns near the Neimark-Sacker bifurcation in a predator-pest model of warm temperate deciduous forests. <strong>Communications in Nonlinear Science and Numerical Simulation</strong>. [[Paper]](https://doi.org/10.1016/j.cnsns.2025.108961)
 
 - J. Gao*, <strong>B. Xu<strong>, and C. Shen (2025). Period-doubled spiral waves without line defects in oscillatory systems. <strong>Physical Review E</strong>. [[Paper]](https://doi.org/10.1103/26pt-kz9b)
+
+- [发明专利] 高见；<strong>许斌<strong>；申传胜；通过图灵斑图结构检测数码相机CCD性能的方法，已公开
